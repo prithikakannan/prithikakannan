@@ -76,12 +76,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 10px;">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 5px; flex-wrap: nowrap; max-width: 900px; margin: 0 auto;">
     <a href="https://github.com/prithikakannan/github-readme-stats">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=0077b6&border_radius=10&bg_color=f8f9fa&title_color=0077b6&icon_color=00b4d8&text_color=343a40" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=0077b6&border_radius=10&bg_color=f8f9fa&title_color=0077b6&icon_color=00b4d8&text_color=343a40" />
     </a>
     <a href="https://github.com/prithikakannan/convoychat">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=8&card_width=320&theme=default&border_color=0077b6&border_radius=10&bg_color=f8f9fa&title_color=0077b6&text_color=343a40" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=6&card_width=280&theme=default&border_color=0077b6&border_radius=10&bg_color=f8f9fa&title_color=0077b6&text_color=343a40" />
     </a>
   </div>
 </div>
