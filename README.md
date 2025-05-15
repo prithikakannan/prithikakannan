@@ -76,9 +76,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <!-- <div style="display: flex; justify-content: center; margin-bottom: 20px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithikakannan&theme=github" width="100%" alt="Profile Details" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 15px;" />
-  </div>
+  </div> -->
 
   <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
     <a href="https://github.com/prithikakannan/github-readme-stats">
