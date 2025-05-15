@@ -76,16 +76,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithikakannan&theme=github" width="100%" alt="Profile Details" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 15px;" />
-  </div> -->
-
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 10px;">
     <a href="https://github.com/prithikakannan/github-readme-stats">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=0077b6&border_radius=10&bg_color=f8f9fa&title_color=0077b6&icon_color=00b4d8&text_color=343a40" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=0077b6&border_radius=10&bg_color=f8f9fa&title_color=0077b6&icon_color=00b4d8&text_color=343a40" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
     </a>
     <a href="https://github.com/prithikakannan/convoychat">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=8&card_width=320&theme=default&border_color=0077b6&border_radius=10&bg_color=f8f9fa&title_color=0077b6&text_color=343a40" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=8&card_width=320&theme=default&border_color=0077b6&border_radius=10&bg_color=f8f9fa&title_color=0077b6&text_color=343a40" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
     </a>
   </div>
 </div>
