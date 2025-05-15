@@ -11,7 +11,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://github.com/wahyudesu/wahyudesu/assets/96912274/301fe236-e965-4654-b32a-6351980d1628" width="800">
+  <h1 style="font-size: 3em; letter-spacing: 2px; font-weight: bold; background: linear-gradient(to right, #00b4d8, #0077b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">INFORMATION TECHNOLOGY</h1>
+  <h3>Transforming Ideas into Digital Reality</h3>
+  <p style="font-size: 1.2em;">Building innovative solutions through code, creativity, and cutting-edge technology</p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -20,7 +22,7 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-- 🎓 Currently pursuing **Information Technology Engineering**
+- 🎓 Currently pursuing **B.Tech. Information Technology**
 - 💻 Focused on **Full Stack Development** with proficiency in MERN/MEAN stacks
 - 🌐 Experienced in building **responsive and dynamic web applications**
 - 🔍 Passionate about **UI/UX Design** and creating seamless user experiences
@@ -74,15 +76,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithikakannan&theme=radical" width="100%" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithikakannan&theme=github" width="100%" alt="Profile Details">
 </div>
 
 <div align="center">
   <a href="https://github.com/prithikakannan/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/prithikakannan/convoychat">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=8&card_width=300&theme=radical" />
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=8&card_width=300&theme=default" />
   </a>
 </div>
 
@@ -91,7 +93,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prithikakannan&theme=radical&hide_border=true&include_all_commits=true&line_height=27">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prithikakannan&theme=default&hide_border=true&include_all_commits=true&line_height=27">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -99,7 +101,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prithikakannan&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prithikakannan&theme=flat&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -107,7 +109,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithikakannan&theme=radical&bg_color=20232a&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithikakannan&theme=minimal&bg_color=ffffff&color=000000&line=0077b6&point=00b4d8&hide_border=true" width="100%">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
