@@ -1,9 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanthansenthilkumar&label=Views%20on%20Me&color=0e75b6&style=flat" alt="jayanthansenthilkumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Views%20on%20Me&color=0e75b6&style=flat" alt="prithikakannan" /> </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Jayanthan+Senthilkumar;AI+%26+ML+Engineer;Python+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Prithika+Kannan;Information+Technology;Python+Developer;Creative+Problem+Solver" alt="Typing SVG" />
   <h1>
-    <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="40px"> Jayanthan Senthilkumar
+    <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="40px"> Prithika Kannan
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
   </h1>
 </div>
@@ -20,7 +20,7 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-- 🎓 Currently pursuing **B.Tech in Artificial Intelligence and Machine Learning**
+- 🎓 Currently pursuing **Information Technology**
 - 🌱 Passionate about **Machine Learning**, **Data Science**, and **AI Applications**
 - 💻 Building projects with **Python**, **TensorFlow**, and **scikit-learn**
 - 🔍 Interested in developing efficient **data manipulation solutions**
@@ -71,15 +71,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayanthansenthilkumar&theme=radical" width="100%" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithikakannan&theme=radical" width="100%" alt="Profile Details">
 </div>
 
 <div align="center">
-  <a href="https://github.com/jayanthansenthilkumar/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=jayanthansenthilkumar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/prithikakannan/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/jayanthansenthilkumar/convoychat">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayanthansenthilkumar&layout=compact&langs_count=8&card_width=300&theme=radical" />
+  <a href="https://github.com/prithikakannan/convoychat">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=8&card_width=300&theme=radical" />
   </a>
 </div>
 
@@ -88,7 +88,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jayanthansenthilkumar&theme=radical&hide_border=true&include_all_commits=true&line_height=27">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prithikakannan&theme=radical&hide_border=true&include_all_commits=true&line_height=27">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -96,7 +96,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayanthansenthilkumar&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prithikakannan&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -104,7 +104,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanthansenthilkumar&theme=radical&bg_color=20232a&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithikakannan&theme=radical&bg_color=20232a&hide_border=true" width="100%">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -177,16 +177,16 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jayanthan-s-%E3%82%B8%E3%83%A3%E3%83%A4%E3%83%B3%E3%82%BF%E3%83%B3-bba225259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/prithikakannan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:mail2jayanthansenthilkumar@gmail.com" target="_blank">
+  <a href="mailto:prithikakannan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank">
+  <a href="https://join.skype.com/invite/prithikakannan" target="_blank">
     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="skype" />
   </a>
-  <a href="https://jayanthansenthilkumar.streamlit.app" target="_blank">
+  <a href="https://prithikakannan.streamlit.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="portfolio" />
   </a>
 </div>
@@ -194,13 +194,13 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jayanthan18" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/prithikakannan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:jayanthansenthilkumar18@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:prithikakannan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/jayanthansenthilkumar" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/instagram.png"  width="50" /></a>
+  <a href="https://instagram.com/prithikakannan" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/instagram.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://jayanthan.prisoltech.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://prithika.prisoltech.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </div>
 
 <div align="center">
