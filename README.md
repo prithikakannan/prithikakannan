@@ -93,8 +93,8 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <div style="display: inline-block; padding: 10px; border-radius: 10px; background: linear-gradient(to right, #f8f9fa, #e9ecef); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=prithikakannan&theme=default&hide_border=false&border=0077b6&ring=0077b6&fire=00b4d8&stroke=0077b6&currStreakNum=343a40&sideNums=343a40&currStreakLabel=0077b6&sideLabels=0077b6&dates=6c757d&background=f8f9fa" />
+  <div style="display: inline-block; padding: 10px; border-radius: 10px; background: linear-gradient(to right, #fff5f5, #fff9f5); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=prithikakannan&hide_border=false&border=e05d44&ring=ff9c24&fire=ff6b3d&stroke=ff6b3d&currStreakNum=e05d44&sideNums=e05d44&currStreakLabel=9c5221&sideLabels=9c5221&dates=6c757d&background=fffbf9" />
   </div>
 </div>
 
