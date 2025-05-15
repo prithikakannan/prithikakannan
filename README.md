@@ -68,7 +68,9 @@
 ## ⚡Quote of the day 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes"/>
+  <div style="background: linear-gradient(to right, #f8f9fa, #e9ecef); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); max-width: 800px; margin: 0 auto; border: 1px solid #d1d1d1;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Readme Quotes" width="95%"/>
+  </div>
 </div> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
