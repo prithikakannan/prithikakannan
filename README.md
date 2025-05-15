@@ -76,16 +76,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithikakannan&theme=github" width="100%" alt="Profile Details">
-</div>
+  <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithikakannan&theme=github" width="100%" alt="Profile Details" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 15px;" />
+  </div>
 
-<div align="center">
-  <a href="https://github.com/prithikakannan/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/prithikakannan/convoychat">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=8&card_width=300&theme=default" />
-  </a>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <a href="https://github.com/prithikakannan/github-readme-stats">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=0077b6&border_radius=10&bg_color=f8f9fa&title_color=0077b6&icon_color=00b4d8&text_color=343a40" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+    </a>
+    <a href="https://github.com/prithikakannan/convoychat">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=8&card_width=320&theme=default&border_color=0077b6&border_radius=10&bg_color=f8f9fa&title_color=0077b6&text_color=343a40" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+    </a>
+  </div>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -93,7 +95,9 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prithikakannan&theme=default&hide_border=true&include_all_commits=true&line_height=27">
+  <div style="display: inline-block; padding: 10px; border-radius: 10px; background: linear-gradient(to right, #f8f9fa, #e9ecef); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=prithikakannan&theme=default&hide_border=false&border=0077b6&ring=0077b6&fire=00b4d8&stroke=0077b6&currStreakNum=343a40&sideNums=343a40&currStreakLabel=0077b6&sideLabels=0077b6&dates=6c757d&background=f8f9fa" />
+  </div>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -101,7 +105,9 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prithikakannan&theme=flat&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" />
+  <div style="background: linear-gradient(to right, #f8f9fa, #e9ecef); padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
+    <img src="https://github-profile-trophy.vercel.app/?username=prithikakannan&theme=flat&no-frame=false&column=7&margin-w=15&margin-h=15&no-bg=true" width="98%" />
+  </div>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -109,7 +115,9 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithikakannan&theme=minimal&bg_color=ffffff&color=000000&line=0077b6&point=00b4d8&hide_border=true" width="100%">
+  <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); margin: 10px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithikakannan&theme=minimal&bg_color=f8f9fa&color=343a40&line=0077b6&point=00b4d8&area=true&area_color=00b4d81a&hide_border=false&border_color=0077b6" width="98%">
+  </div>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
