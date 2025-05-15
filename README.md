@@ -1,5 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Views%20on%20Me&color=0e75b6&style=flat" alt="prithikakannan" /> </p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Prithika+Kannan;Information+Technology;Full+Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
   <h1>
