@@ -18,11 +18,11 @@
 <div align="center">
   <h1 align="center">
     <span style="background-image: linear-gradient(to right, #6366F1, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      <img src="https://user-images.githubusercontent.com/74038190/216122476-7abf6695-b418-4b83-bc58-615433e253c2.gif" width="30" alt=""/> FULL STACK & MOBILE DEV <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="38" alt=""/>
+      <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="30" alt=""/> FULL STACK & MOBILE DEV <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="38" alt=""/>
     </span>
   </h1>
-  <h3>Crafting Seamless Experiences Across Web & Mobile</h3>
-  <p>Building innovative solutions with React, React Native, Node.js and modern mobile frameworks</p>
+  <h3>Web & Mobile Solutions | Cross-Platform Expert</h3>
+  <p>React | React Native | Node.js | Flutter | Firebase</p>
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
@@ -31,15 +31,12 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-- 🎓 Currently pursuing **B.Tech. Information Technology**
-- 💻 Focused on **Full Stack Development** with proficiency in MERN/MEAN stacks
-- 🌐 Experienced in building **responsive and dynamic web applications**
-- 🔍 Passionate about **UI/UX Design** and creating seamless user experiences
-- 📊 Skilled in **database management** with MySQL, MongoDB, and PostgreSQL
-- 🚀 Exploring **DevOps practices** and **cloud deployment solutions**
-- 🌱 Learning **microservices architecture** and **containerization**
-- 🤝 Open to collaborations on **innovative web development projects**
-- 💼 Seeking opportunities in **Full Stack Development** and **IT Consulting**
+- 💻 **Full Stack Developer** with expertise in MERN stack & mobile app development
+- 📱 Specialized in **React Native** and **Flutter** for cross-platform mobile solutions
+- 🌐 Experienced in building **responsive web & mobile applications**
+- 🔍 Skilled in creating **intuitive UIs** and optimizing **user experiences**
+- 📊 Proficient with **Firebase**, **MongoDB**, and **SQL** databases
+- 🚀 Passionate about **CI/CD pipelines** and **automated testing**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -47,13 +44,11 @@
 
 ## 📚 Projects & Experience
 
-- 🌐 **E-Commerce Platform** - Full stack application with React frontend and Node.js backend with MongoDB
-- 🔐 **Authentication System** - Implemented JWT-based auth with role-based access control
-- 📱 **Responsive Portfolio Website** - Designed and developed using HTML5, CSS3, and JavaScript
-- 💬 **Real-time Chat Application** - Built with Socket.io and Express.js for instant messaging
-- 📊 **Admin Dashboard** - Created interactive dashboard with data visualization using Chart.js
-- 🎯 **Task Management System** - Developed a CRUD application with React and Firebase
-- 🍴 **Restaurant Ordering System** - Built a complete ordering system with payment gateway integration
+- 📱 **Cross-Platform Delivery App** - React Native, Firebase, Stripe payment integration
+- 🌐 **E-Commerce Platform** - Full stack with React, Node.js, MongoDB
+- 💬 **Real-time Chat Application** - Socket.io, Express.js, React Native mobile client
+- 📊 **Analytics Dashboard** - Data visualization with Chart.js, React, and Redux
+- 🎯 **Task Management System** - Flutter app with Firebase backend
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -61,20 +56,10 @@
 
 ## 🔥 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,mongodb,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,aws,docker,git,tailwind,figma,vscode" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
