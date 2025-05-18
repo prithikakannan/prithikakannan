@@ -1,21 +1,21 @@
-<div align="center" style="font-family: 'Poppins', sans-serif;">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Profile%20Views&color=3b82f6&style=flat-square" alt="prithikakannan" />
 </div>
 
-<div align="center" style="font-family: 'Poppins', sans-serif;">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Prithika+Kannan;Information+Technology;Full+Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
   
-  <h1 style="font-family: 'Poppins', sans-serif; font-weight: 600;">
+  <h1>
     <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="35px"> Prithika Kannan
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
   </h1>
 </div>
 
-<div align="center" style="font-family: 'Poppins', sans-serif;">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721d112.gif" width="680">
 </div>
 
-<div align="center" style="font-family: 'Poppins', sans-serif;">
+<div align="center">
   <h1 align="center">
     <span style="background-image: linear-gradient(to right, #3b82f6, #8b5cf6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt=""/> FULL STACK & MOBILE DEV <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt=""/>
@@ -37,7 +37,7 @@
 - 🎨 Passion for creating elegant, intuitive user interfaces and experiences
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 ## 📚 Projects & Experience
@@ -49,10 +49,10 @@
 - 🎯 **Task Management System** - Flutter app with Firebase backend
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-## ⚡ Tech Stack
+## 🔥 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,mongodb,mysql" /><br>
@@ -60,25 +60,19 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-## ⚡ Quotes & Streaks
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
-  <div style="flex: 1; min-width: 400px; max-width: 600px;">
-    <div style="background: linear-gradient(to right, #f8f9fa, #e9ecef); padding: 15px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1); margin: 0 auto; border-left: 5px solid #3b82f6; height: 100%;">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Readme Quotes" width="100%"/>
-    </div>
-  </div>
-  
-  <div style="flex: 1; min-width: 400px; max-width: 600px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=prithikakannan&theme=default&hide_border=false&background=FFFFFF&stroke=e5e7eb&fire=3b82f6&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=64748b&ring=8b5cf6" width="100%" />
-  </div>
-</div>
+## ⚡Quote of the day 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <div style="background: linear-gradient(to right, #f8f9fa, #e9ecef); padding: 20px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1); max-width: 800px; margin: 0 auto; border-left: 5px solid #0ea5e9;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Readme Quotes" width="95%"/>
+  </div>
+</div> 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 ## 📊 GitHub Stats
@@ -95,7 +89,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 ## 🔥 GitHub Streak
@@ -105,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 ## 🏆 GitHub Trophies
@@ -115,7 +109,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 ## 📈 Activity Graph
@@ -125,7 +119,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 ## 🤝 Connect With Me
