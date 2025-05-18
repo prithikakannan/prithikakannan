@@ -12,17 +12,17 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/236119770-de863530-41fe-424d-a6c8-8d8dd7853155.gif" width="680">
 </div>
 
 <div align="center">
   <h1 align="center">
-    <span style="background-image: linear-gradient(to right, #00b4d8, #0077b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      <img src="https://user-images.githubusercontent.com/74038190/216122044-54953220-0f34-4986-b90f-ad163e8f3efb.png" width="30" alt=""/> INFORMATION TECHNOLOGY <img src="https://user-images.githubusercontent.com/74038190/216122044-54953220-0f34-4986-b90f-ad163e8f3efb.png" width="30" alt=""/>
+    <span style="background-image: linear-gradient(to right, #6366F1, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      <img src="https://user-images.githubusercontent.com/74038190/216122476-7abf6695-b418-4b83-bc58-615433e253c2.gif" width="30" alt=""/> FULL STACK & MOBILE DEV <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="38" alt=""/>
     </span>
   </h1>
-  <h3>Transforming Ideas into Digital Reality</h3>
-  <p>Building innovative solutions through code, creativity, and cutting-edge technology</p>
+  <h3>Crafting Seamless Experiences Across Web & Mobile</h3>
+  <p>Building innovative solutions with React, React Native, Node.js and modern mobile frameworks</p>
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
