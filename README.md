@@ -16,11 +16,6 @@
 </div>
 
 <div align="center">
-  <h1 align="center">
-    <span style="background-image: linear-gradient(to right, #3b82f6, #8b5cf6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt=""/> FULL STACK & MOBILE DEV <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt=""/>
-    </span>
-  </h1>
   <h3>Web & Mobile Solutions | Cross-Platform Expert</h3>
   <p>React | React Native | Node.js | Flutter | Firebase</p>
   
