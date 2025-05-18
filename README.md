@@ -27,16 +27,20 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
 
+<style>
+  * {
+    font-family: 'Poppins', sans-serif;
+  }
+</style>
+
 ## 💫 About Me
 
-<img align="right" height="220" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-- 💻 **Full Stack Developer** with expertise in MERN stack & mobile app development
-- 📱 Specialized in **React Native** and **Flutter** for cross-platform mobile solutions
-- 🌐 Experienced in building **responsive web & mobile applications**
-- 🔍 Skilled in creating **intuitive UIs** and optimizing **user experiences**
-- 📊 Proficient with **Firebase**, **MongoDB**, and **SQL** databases
-- 🚀 Passionate about **CI/CD pipelines** and **automated testing**
+- 💻 **Full Stack Developer** specializing in web & mobile application development
+- 📱 Expert in **React Native** & **Flutter** for cross-platform mobile apps
+- 🌐 Skilled in building complete end-to-end solutions with modern tech stacks
+- 🎨 Passion for creating elegant, intuitive user interfaces and experiences
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -107,7 +111,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prithikakannan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prithikakannan&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10&title_color=ffffff&text_color=ffffff" width="90%" height="150px" />
 </div>
 
 <div align="center">
@@ -207,16 +211,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prithikakannan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&fontFamily=Poppins" alt="linkedin" />
   </a>
   <a href="mailto:prithikakannan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&fontFamily=Poppins" alt="gmail" />
   </a>
   <a href="https://join.skype.com/invite/prithikakannan" target="_blank">
-    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="skype" />
+    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white&fontFamily=Poppins" alt="skype" />
   </a>
   <a href="https://prithikakannan.streamlit.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=streamlit&logoColor=white" alt="portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=streamlit&logoColor=0ea5e9&fontFamily=Poppins" alt="portfolio" />
   </a>
 </div>
 
@@ -224,7 +228,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prithikakannan" target="_blank" rel="noopener noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90" />
+    <img src="https://user-images.githubusercontent.com/74038190/214644148-3098fe5c-4d9c-4f7d-b3de-239f271a58bf.gif" width="80" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:prithikakannan@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -232,11 +236,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/prithikakannan" target="_blank" rel="noopener noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-48fc-8c66-3e18c5401417.gif" width="60" />
+    <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441a-9d62-553ae11ff5d1.gif" width="70" />
   </a>
   &nbsp;&nbsp;
   <a href="https://prithika.prisoltech.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" />
+    <img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="65" />
   </a>
 </div>
 
