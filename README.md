@@ -37,7 +37,7 @@
 - 🎨 Passion for creating elegant, intuitive user interfaces and experiences
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
 
 ## 📚 Projects & Experience
@@ -49,10 +49,10 @@
 - 🎯 **Task Management System** - Flutter app with Firebase backend
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
 
-## 🔥 Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,mongodb,mysql" /><br>
@@ -60,19 +60,25 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
 
-## ⚡Quote of the day 
+## ⚡ Quotes & Streaks
 
-<div align="center">
-  <div style="background: linear-gradient(to right, #f8f9fa, #e9ecef); padding: 20px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1); max-width: 800px; margin: 0 auto; border-left: 5px solid #0ea5e9;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Readme Quotes" width="95%"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
+  <div style="flex: 1; min-width: 400px; max-width: 600px;">
+    <div style="background: linear-gradient(to right, #f8f9fa, #e9ecef); padding: 15px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1); margin: 0 auto; border-left: 5px solid #3b82f6; height: 100%;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Readme Quotes" width="100%"/>
+    </div>
   </div>
-</div> 
+  
+  <div style="flex: 1; min-width: 400px; max-width: 600px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=prithikakannan&theme=default&hide_border=false&background=FFFFFF&stroke=e5e7eb&fire=3b82f6&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=64748b&ring=8b5cf6" width="100%" />
+  </div>
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
 
 ## 📊 GitHub Stats
@@ -89,7 +95,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
 
 ## 🔥 GitHub Streak
@@ -99,7 +105,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
 
 ## 🏆 GitHub Trophies
@@ -109,7 +115,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
 
 ## 📈 Activity Graph
@@ -119,7 +125,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </div>
 
 ## 🤝 Connect With Me
