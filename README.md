@@ -64,18 +64,8 @@
 
 ## 📊 GitHub Stats
 
-<!-- 
-  This section displays GitHub statistics using the github-readme-stats API.
-  The stats are displayed in a flex container for responsive layout.
--->
 <div align="center">
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; max-width: 900px; margin: 0 auto;">
-    <!-- 
-      GitHub Stats Card - Shows commit stats, contributions, issues, etc.
-      Parameters:
-      - username: GitHub username to fetch stats for
-      - show_icons: Display icons for different metrics
-    -->
     <a href="https://github.com/prithikakannan/github-readme-stats">
       <img height="160" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=react&hide_border=true&bg_color=2D1F3D&title_color=F472B6&icon_color=EC4899&text_color=ffffff&border_radius=10" />
     </a>
