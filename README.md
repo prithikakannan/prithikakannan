@@ -172,37 +172,52 @@
 
 ## 🤝 Connect With Me
 
-<div align="center" style="background: linear-gradient(to right, #dbeafe, #bfdbfe, #93c5fd); padding: 25px; border-radius: 16px; margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/prithikakannan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&fontFamily=Poppins" alt="linkedin" />
-  </a>
-  <a href="mailto:prithikakannan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&fontFamily=Poppins" alt="gmail" />
-  </a>
-  <a href="https://join.skype.com/invite/prithikakannan" target="_blank">
-    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white&fontFamily=Poppins" alt="skype" />
-  </a>
-  <a href="https://prithikakannan.streamlit.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=streamlit&logoColor=0ea5e9&fontFamily=Poppins" alt="portfolio" />
-  </a>
-
-  <div style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/prithikakannan" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/74038190/214644148-3098fe5c-4d9c-4f7d-b3de-239f271a58bf.gif" width="80" />
+<div align="center" style="background: linear-gradient(135deg, #2D1F3D, #4C1D95); padding: 30px; border-radius: 16px; margin: 20px 0; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.3);">
+  <h3 style="color: white; margin-top: 0; margin-bottom: 20px; font-size: 22px;">Let's Build Something Amazing Together!</h3>
+  
+  <!-- Main social links with hover effect -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 25px;">
+    <a href="https://www.linkedin.com/in/prithikakannan" target="_blank" style="transform: translateY(0); transition: transform 0.3s; display: block;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&fontFamily=Poppins" alt="linkedin" />
     </a>
-    &nbsp;&nbsp;
-    <a href="mailto:prithikakannan@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" />
+    <a href="mailto:prithikakannan@gmail.com" target="_blank" style="transform: translateY(0); transition: transform 0.3s; display: block;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&fontFamily=Poppins" alt="gmail" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://instagram.com/prithikakannan" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441a-9d62-553ae11ff5d1.gif" width="70" />
+    <a href="https://join.skype.com/invite/prithikakannan" target="_blank" style="transform: translateY(0); transition: transform 0.3s; display: block;">
+      <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white&fontFamily=Poppins" alt="skype" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://prithika.prisoltech.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="65" />
+    <a href="https://prithikakannan.streamlit.app" target="_blank" style="transform: translateY(0); transition: transform 0.3s; display: block;">
+      <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white&fontFamily=Poppins" alt="portfolio" />
+    </a>
+    <a href="https://instagram.com/prithikakannan" target="_blank" style="transform: translateY(0); transition: transform 0.3s; display: block;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&fontFamily=Poppins" alt="instagram" />
+    </a>
+    <a href="https://twitter.com/prithikakannan" target="_blank" style="transform: translateY(0); transition: transform 0.3s; display: block;">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&fontFamily=Poppins" alt="twitter" />
     </a>
   </div>
+  
+  <!-- Animated icons in a card-style layout -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; max-width: 600px; margin: 0 auto;">
+    <a href="https://www.linkedin.com/in/prithikakannan" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px; text-decoration: none; transition: transform 0.3s, background 0.3s; display: flex; flex-direction: column; align-items: center;">
+      <img src="https://user-images.githubusercontent.com/74038190/214644148-3098fe5c-4d9c-4f7d-b3de-239f271a58bf.gif" width="70" />
+      <span style="color: white; margin-top: 8px; font-weight: 500;">LinkedIn</span>
+    </a>
+    <a href="mailto:prithikakannan@gmail.com" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px; text-decoration: none; transition: transform 0.3s, background 0.3s; display: flex; flex-direction: column; align-items: center;">
+      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="45" />
+      <span style="color: white; margin-top: 8px; font-weight: 500;">Email</span>
+    </a>
+    <a href="https://instagram.com/prithikakannan" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px; text-decoration: none; transition: transform 0.3s, background 0.3s; display: flex; flex-direction: column; align-items: center;">
+      <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441a-9d62-553ae11ff5d1.gif" width="60" />
+      <span style="color: white; margin-top: 8px; font-weight: 500;">Instagram</span>
+    </a>
+    <a href="https://prithika.prisoltech.com" target="_blank" rel="noopener noreferrer" style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 15px; text-decoration: none; transition: transform 0.3s, background 0.3s; display: flex; flex-direction: column; align-items: center;">
+      <img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="55" />
+      <span style="color: white; margin-top: 8px; font-weight: 500;">Portfolio</span>
+    </a>
+  </div>
+  
+  <p style="color: #e0e7ff; margin-top: 25px; font-style: italic;">I'm always open to interesting conversations and collaboration opportunities!</p>
 </div>
 
 <div align="center">
