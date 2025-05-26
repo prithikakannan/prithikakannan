@@ -67,10 +67,10 @@
 <div align="center">
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; max-width: 900px; margin: 0 auto;">
     <a href="https://github.com/prithikakannan/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=38bdf8&text_color=ffffff&border_radius=10" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=react&hide_border=true&bg_color=2D1F3D&title_color=F472B6&icon_color=EC4899&text_color=ffffff&border_radius=10" />
     </a>
     <a href="https://github.com/prithikakannan/convoychat">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=ffffff&border_radius=10" />
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=2D1F3D&title_color=F472B6&text_color=ffffff&border_radius=10" />
     </a>
   </div>
 </div>
@@ -82,7 +82,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prithikakannan&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&fire=0ea5e9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0ea5e9&sideLabels=0ea5e9&dates=ffffff&ring=0ea5e9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prithikakannan&theme=dark&hide_border=true&background=2D1F3D&stroke=2D1F3D&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=ffffff&ring=8B5CF6" />
 </div>
 
 <div align="center">
@@ -92,7 +92,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prithikakannan&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10&title_color=ffffff&text_color=ffffff" width="90%" height="150px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prithikakannan&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" width="90%" height="150px" />
 </div>
 
 <div align="center">
@@ -102,7 +102,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithikakannan&theme=react-dark&bg_color=0D1117&color=ffffff&line=0ea5e9&point=38bdf8&area=true&area_color=0ea5e970&hide_border=true" width="98%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithikakannan&theme=react-dark&bg_color=2D1F3D&color=ffffff&line=8B5CF6&point=EC4899&area=true&area_color=EC489970&hide_border=true" width="98%">
 </div>
 
 <div align="center">
