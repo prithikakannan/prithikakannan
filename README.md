@@ -67,7 +67,6 @@
 
 <!-- 
   This section displays GitHub statistics using the github-readme-stats API.
-  The stats are displayed in a flex container for responsive layout.
   The container adapts to different screen sizes with flex-wrap.
 -->
 <div align="center">
