@@ -63,37 +63,11 @@
 </div>
 
 ## 📊 GitHub Stats
-
-<!-- 
-  This section displays GitHub statistics using the github-readme-stats API.
-  The stats are displayed in a flex container for responsive layout.
-  The container adapts to different screen sizes with flex-wrap.
--->
 <div align="center">
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; max-width: 900px; margin: 0 auto;">
-    <!-- 
-      GitHub Stats Card - Shows commit stats, contributions, issues, etc.
-      Parameters:
-      - username: GitHub username to fetch stats for
-      - show_icons: Display icons for different metrics
-      - theme: Base theme (here: react)
-      - hide_border: Removes the border around the card
-      - bg_color: Background color (deep purple: 2D1F3D)
-      - title_color: Color of the title text (pink: F472B6)
-      - icon_color: Color of the icons (hot pink: EC4899)
-      - text_color: Color of the regular text (white)
-      - border_radius: Rounded corners (10px)
-    -->
     <a href="https://github.com/prithikakannan/github-readme-stats">
       <img height="160" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=react&hide_border=true&bg_color=2D1F3D&title_color=F472B6&icon_color=EC4899&text_color=ffffff&border_radius=10" />
     </a>
-    <!-- 
-      Top Languages Card - Shows most used programming languages
-      Parameters:
-      - layout: Compact to save space
-      - langs_count: Number of languages to display (6)
-      - Custom colors match the stats card for visual consistency
-    -->
     <a href="https://github.com/prithikakannan/convoychat">
       <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=2D1F3D&title_color=F472B6&text_color=ffffff&border_radius=10" />
     </a>
