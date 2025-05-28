@@ -69,7 +69,6 @@
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; max-width: 900px; margin: 0 auto;">
     <!-- 
       GitHub Stats Card - Shows commit stats, contributions, issues, etc.
-      Parameters:
       - username: GitHub username to fetch stats for
     -->
     <a href="https://github.com/prithikakannan/github-readme-stats">
