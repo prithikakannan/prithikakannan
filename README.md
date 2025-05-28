@@ -171,10 +171,38 @@
   </a>
 </div>
 
-<!-- new gradient footer -->
-<div align="center" style="background: linear-gradient(135deg, #3b82f6, #8b5cf6); padding: 30px; border-radius: 16px; margin-top: 40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="waving footer" />
-  <p style="margin-top: 20px; font-size: 18px; font-weight: 600; background: linear-gradient(90deg, #ec4899, #f472b6); -webkit-background-clip: text; color: transparent;">
-    ✨ Thanks for stopping by! If you enjoyed this, please give it a star! ✨
+<!-- creative animated footer -->
+<div align="center" style="background: radial-gradient(circle at top left, #8b5cf6, #3b82f6, #ec4899); padding: 40px; border-radius: 20px; margin-top: 50px; position: relative; overflow: hidden;">
+
+  <!-- subtle pattern overlay -->
+  <div style="position:absolute; inset:0; background:url('https://www.transparenttextures.com/patterns/cubes.png'); opacity:0.2; pointer-events:none;"></div>
+
+  <h2 style="color:#fff; font-size:28px; margin:0 0 12px; text-shadow:2px 2px 8px rgba(0,0,0,0.5);">
+    🚀 Thanks for Dropping By! 🚀
+  </h2>
+  <p style="color:#f3f3f3; font-size:16px; margin:0 0 24px; max-width:600px; line-height:1.4;">
+    If you enjoyed exploring this profile, smash that star ⭐ and follow me for more exciting projects!
   </p>
+  
+  <a href="https://github.com/prithikakannan" target="_blank"
+     style="display:inline-block; background:linear-gradient(45deg,#ec4899,#f472b6); color:#fff;
+            padding:12px 28px; border-radius:50px; font-weight:600; text-decoration:none;
+            box-shadow:0 6px 20px rgba(0,0,0,0.3); transition:transform .3s">
+    🌟 Star Me on GitHub
+  </a>
+
+  <!-- floating circles -->
+  <div style="position:absolute; width:120px; height:120px; background:rgba(255,255,255,0.1);
+              border-radius:50%; top:-40px; right:-40px; animation:float 6s ease-in-out infinite;"></div>
+  <div style="position:absolute; width:80px; height:80px;  background:rgba(255,255,255,0.1);
+              border-radius:50%; bottom:-30px; left:-30px; animation:float 4s ease-in-out infinite;"></div>
+
 </div>
+
+<!-- floating animation keyframes -->
+<style>
+@keyframes float {
+  0%,100% { transform: translateY(0) translateX(0); }
+  50%     { transform: translateY(12px) translateX(8px); }
+}
+</style>
