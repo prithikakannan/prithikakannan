@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Profile%20Views&color=3b82f6&style=flat-square" alt="prithikakannan" />
 </div>
@@ -172,10 +171,10 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
+<!-- new gradient footer -->
+<div align="center" style="background: linear-gradient(135deg, #3b82f6, #8b5cf6); padding: 30px; border-radius: 16px; margin-top: 40px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="waving footer" />
+  <p style="margin-top: 20px; font-size: 18px; font-weight: 600; background: linear-gradient(90deg, #ec4899, #f472b6); -webkit-background-clip: text; color: transparent;">
+    ✨ Thanks for stopping by! If you enjoyed this, please give it a star! ✨
+  </p>
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-Star%20if%20useful-0ea5e9.svg" alt="Thanks for visiting!" />
-</p>
