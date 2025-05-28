@@ -75,7 +75,6 @@
       GitHub Stats Card - Shows commit stats, contributions, issues, etc.
       Parameters:
       - username: GitHub username to fetch stats for
-      - show_icons: Display icons for different metrics
       - theme: Base theme (here: react)
       - hide_border: Removes the border around the card
       - bg_color: Background color (deep purple: 2D1F3D)
