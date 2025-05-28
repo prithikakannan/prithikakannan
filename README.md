@@ -171,50 +171,12 @@
   </a>
 </div>
 
-<!-- cosmic neon footer -->
-<div align="center" style="
-  background: url('https://media.giphy.com/media/26uf9QPzzlKPvQG5K/giphy.gif') center/cover;
-  padding: 50px; border-radius: 20px; margin-top: 60px; position: relative; overflow: hidden;
-">
-  <!-- semi-transparent overlay -->
-  <div style="
-    position: absolute; inset: 0; background: rgba(0,0,0,0.6);
-    border-radius: 20px; pointer-events: none;
-  "></div>
-
-  <h2 style="
-    position: relative; color: #00f6ff; font-size: 32px;
-    text-shadow: 0 0 10px #00f6ff; animation: flicker 3s infinite;
-  ">
-    ✨ See You Among the Stars! ✨
-  </h2>
-
-  <p style="
-    position: relative; color: #e0e0e0; font-size: 18px;
-    margin: 15px 0 30px; max-width: 700px;
-  ">
-    Explore more cosmic projects & don't forget to spark a star on GitHub! 🚀
-  </p>
-
-  <a href="https://github.com/prithikakannan" target="_blank" style="
-    position: relative; display: inline-block;
-    background: #00f6ff; color: #000; padding: 15px 30px;
-    border-radius: 30px; font-weight: bold; text-decoration: none;
-    box-shadow: 0 0 15px #00f6ff; transition: box-shadow .3s;
-    animation: pulse 2s infinite;
-  ">
-    🌟 Star My Repo 🌟
-  </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
 </div>
 
-<!-- neon flicker & pulse animations -->
-<style>
-@keyframes flicker {
-  0%,18%,20%,50%,60%,100% { opacity: 1; }
-  19%,21%,55%,65%        { opacity: 0.4; }
-}
-@keyframes pulse {
-  0%,100% { transform: scale(1); box-shadow: 0 0 15px #00f6ff; }
-  50%     { transform: scale(1.1); box-shadow: 0 0 30px #00f6ff; }
-}
-</style>
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-Star%20if%20useful-0ea5e9.svg" alt="Thanks for visiting!" />
+</p>
+
+
