@@ -171,38 +171,50 @@
   </a>
 </div>
 
-<!-- creative animated footer -->
-<div align="center" style="background: radial-gradient(circle at top left, #8b5cf6, #3b82f6, #ec4899); padding: 40px; border-radius: 20px; margin-top: 50px; position: relative; overflow: hidden;">
+<!-- cosmic neon footer -->
+<div align="center" style="
+  background: url('https://media.giphy.com/media/26uf9QPzzlKPvQG5K/giphy.gif') center/cover;
+  padding: 50px; border-radius: 20px; margin-top: 60px; position: relative; overflow: hidden;
+">
+  <!-- semi-transparent overlay -->
+  <div style="
+    position: absolute; inset: 0; background: rgba(0,0,0,0.6);
+    border-radius: 20px; pointer-events: none;
+  "></div>
 
-  <!-- subtle pattern overlay -->
-  <div style="position:absolute; inset:0; background:url('https://www.transparenttextures.com/patterns/cubes.png'); opacity:0.2; pointer-events:none;"></div>
-
-  <h2 style="color:#fff; font-size:28px; margin:0 0 12px; text-shadow:2px 2px 8px rgba(0,0,0,0.5);">
-    🚀 Thanks for Dropping By! 🚀
+  <h2 style="
+    position: relative; color: #00f6ff; font-size: 32px;
+    text-shadow: 0 0 10px #00f6ff; animation: flicker 3s infinite;
+  ">
+    ✨ See You Among the Stars! ✨
   </h2>
-  <p style="color:#f3f3f3; font-size:16px; margin:0 0 24px; max-width:600px; line-height:1.4;">
-    If you enjoyed exploring this profile, smash that star ⭐ and follow me for more exciting projects!
+
+  <p style="
+    position: relative; color: #e0e0e0; font-size: 18px;
+    margin: 15px 0 30px; max-width: 700px;
+  ">
+    Explore more cosmic projects & don't forget to spark a star on GitHub! 🚀
   </p>
-  
-  <a href="https://github.com/prithikakannan" target="_blank"
-     style="display:inline-block; background:linear-gradient(45deg,#ec4899,#f472b6); color:#fff;
-            padding:12px 28px; border-radius:50px; font-weight:600; text-decoration:none;
-            box-shadow:0 6px 20px rgba(0,0,0,0.3); transition:transform .3s">
-    🌟 Star Me on GitHub
+
+  <a href="https://github.com/prithikakannan" target="_blank" style="
+    position: relative; display: inline-block;
+    background: #00f6ff; color: #000; padding: 15px 30px;
+    border-radius: 30px; font-weight: bold; text-decoration: none;
+    box-shadow: 0 0 15px #00f6ff; transition: box-shadow .3s;
+    animation: pulse 2s infinite;
+  ">
+    🌟 Star My Repo 🌟
   </a>
-
-  <!-- floating circles -->
-  <div style="position:absolute; width:120px; height:120px; background:rgba(255,255,255,0.1);
-              border-radius:50%; top:-40px; right:-40px; animation:float 6s ease-in-out infinite;"></div>
-  <div style="position:absolute; width:80px; height:80px;  background:rgba(255,255,255,0.1);
-              border-radius:50%; bottom:-30px; left:-30px; animation:float 4s ease-in-out infinite;"></div>
-
 </div>
 
-<!-- floating animation keyframes -->
+<!-- neon flicker & pulse animations -->
 <style>
-@keyframes float {
-  0%,100% { transform: translateY(0) translateX(0); }
-  50%     { transform: translateY(12px) translateX(8px); }
+@keyframes flicker {
+  0%,18%,20%,50%,60%,100% { opacity: 1; }
+  19%,21%,55%,65%        { opacity: 0.4; }
+}
+@keyframes pulse {
+  0%,100% { transform: scale(1); box-shadow: 0 0 15px #00f6ff; }
+  50%     { transform: scale(1.1); box-shadow: 0 0 30px #00f6ff; }
 }
 </style>
