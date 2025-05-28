@@ -77,7 +77,6 @@
       - hide_border: Removes the border around the card
       - bg_color: Background color (deep purple: 2D1F3D)
       - title_color: Color of the title text (pink: F472B6)
-      - icon_color: Color of the icons (hot pink: EC4899)
     -->
     <a href="https://github.com/prithikakannan/github-readme-stats">
       <img height="160" src="https://github-readme-stats.vercel.app/api?username=prithikakannan&show_icons=true&theme=react&hide_border=true&bg_color=2D1F3D&title_color=F472B6&icon_color=EC4899&text_color=ffffff&border_radius=10" />
