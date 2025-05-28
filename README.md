@@ -63,7 +63,6 @@
 ## 📊 GitHub Stats
 
 <!-- 
-  This section displays GitHub statistics using the github-readme-stats API.
 -->
 <div align="center">
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; max-width: 900px; margin: 0 auto;">
