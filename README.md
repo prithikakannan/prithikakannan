@@ -67,7 +67,6 @@
 <!-- 
   This section displays GitHub statistics using the github-readme-stats API.
   The stats are displayed in a flex container for responsive layout.
-  The container adapts to different screen sizes with flex-wrap.
 -->
 <div align="center">
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; max-width: 900px; margin: 0 auto;">
