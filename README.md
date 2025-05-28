@@ -77,8 +77,6 @@
       Top Languages Card - Shows most used programming languages
       Parameters:
       - layout: Compact to save space
-      - langs_count: Number of languages to display (6)
-      - Custom colors match the stats card for visual consistency
     -->
     <a href="https://github.com/prithikakannan/convoychat">
       <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithikakannan&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=2D1F3D&title_color=F472B6&text_color=ffffff&border_radius=10" />
