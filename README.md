@@ -77,8 +77,6 @@
       - username: GitHub username to fetch stats for
       - theme: Base theme (here: react)
       - bg_color: Background color (deep purple: 2D1F3D)
-      - title_color: Color of the title text (pink: F472B6)
-      - text_color: Color of the regular text (white)
       - border_radius: Rounded corners (10px)
     -->
     <a href="https://github.com/prithikakannan/github-readme-stats">
