@@ -7,7 +7,6 @@
     <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="35px"> Pri
   </h1>
 </div>
-<div align="center">09b-998f-c5b74721d112.gif" width="680">
 </div>
 <div align="center">
   <h3>Web & Mobile Solutions | Cross-Platform Expert</h3>
