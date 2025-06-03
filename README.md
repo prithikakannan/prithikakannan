@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Profile%20Views&color=3b82f6&style=flat-square" alt="prithikakannan" />
 </div>
-  <img src="https://readme-typing-svg.herokuapp.com?
-  </h1>
-</div>
-<div align="center">="680">
 </div>
 <div align="center">
   <h3>Web & Mobile Solutions | Cross-Platform Expert</h3>
