@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Profile%20Views&color=3b82f6&style=flat-square" alt="prithikakannan" />
 </div>
 </div>
-<img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 - 🎯 **Task Management System** - Flutter app with Firebase backendd1c14c0247f.gif" width="100%">
 </div>
