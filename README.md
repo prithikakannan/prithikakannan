@@ -3,7 +3,6 @@
 </div>
 </div>
 <div align="center
-## 💫 About Me
 <img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 - 💻 **Full Stack Developer** specializing in web & mobile application development
 - 📱 Expert in **React Native** & **Flutter** for cross-platform mobile apps
