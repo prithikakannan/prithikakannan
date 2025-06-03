@@ -6,7 +6,6 @@
 
 ## 📚 Projects & Experience
 
-- 📱 **Cross-Platform Delivery App** - React Native, Firebase, Stripe payment integration
 - 🌐 **E-Commerce Platform** - Full stack with React, Node.js, MongoDB
 - 💬 **Real-time Chat Application** - Socket.io, Express.js, React Native mobile client
 - 🎯 **Task Management System** - Flutter app with Firebase backend
