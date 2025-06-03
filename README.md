@@ -1,10 +1,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Profile%20Views&color=3b82f6&style=flat-square" alt="prithikakannan" />
 </div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Prithika+Kannan;Information+Technology;Full+Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
-  <h1>
-    <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="35px"> Prithika Kannan
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  <img src="https://readme-typing-svg.herokuapp.com?
   </h1>
 </div>
 <div align="center">
