@@ -4,10 +4,7 @@
 </div>
 <img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-- 🎯 **Task Management System** - Flutter app with Firebase backend
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+- 🎯 **Task Management System** - Flutter app with Firebase backendd1c14c0247f.gif" width="100%">
 </div>
 
 ## 🔥 Tech Stack
