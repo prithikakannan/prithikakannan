@@ -4,10 +4,6 @@
 </div>
 <img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-## 📚 Projects & Experience
-
-- 🌐 **E-Commerce Platform** - Full stack with React, Node.js, MongoDB
-- 💬 **Real-time Chat Application** - Socket.io, Express.js, React Native mobile client
 - 🎯 **Task Management System** - Flutter app with Firebase backend
 
 <div align="center">
