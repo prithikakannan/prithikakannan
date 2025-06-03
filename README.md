@@ -8,8 +8,6 @@
 </div>
 
 ## 🔥 Tech Stack
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,mongodb,mysql" /><br>
   <img src="https://skillicons.dev/icons?i=flutter,firebase,aws,docker,git,tailwind,figma,vscode" />
 </div>
