@@ -2,8 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Profile%20Views&color=3b82f6&style=flat-square" alt="prithikakannan" />
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721d112.gif" width="680">
-</div>
 <div align="center">
   <h3>Web & Mobile Solutions | Cross-Platform Expert</h3>
   <p>PHP | React | Node.js | Flutter | iOS</p>
