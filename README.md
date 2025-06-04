@@ -2,13 +2,24 @@
   <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Profile%20Views&color=3b82f6&style=flat-square" alt="prithikakannan" />
 </div>
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Prithika+Kannan;Information+Technology;Full+Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+  <h1>
+    <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="35px"> Prithika Kannan
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  </h1>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721d112.gif" width="680">
+</div>
 <div align="center">
   <h3>Web & Mobile Solutions | Cross-Platform Expert</h3>
   <p>PHP | React | Node.js | Flutter | iOS</p>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 ## 💫 About Me
-<img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gi
+<img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+- 💻 **Full Stack Developer** specializing in web & mobile application development
+- 📱 Expert in **React Native** & **Flutter** for cross-platform mobile apps
 - 🌐 Skilled in building complete end-to-end solutions with modern tech stacks
 - 🎨 Passion for creating elegant, intuitive user interfaces and experiences
 
@@ -80,6 +91,7 @@
       Top Languages Card - Shows most used programming languages
       Parameters:
       - layout: Compact to save space
+      - langs_count: Number of languages to display (6)
       - Custom colors match the stats card for visual consistency
     -->
     <a href="https://github.com/prithikakannan/convoychat">
