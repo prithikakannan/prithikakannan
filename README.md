@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Profile%20Views&color=3b82f6&style=flat-square" alt="prithikakannan" />
 </div>
-  <h1>
-    <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" ght="35px"> Prithika Ka>
-  </h1>
-</div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721d112.gif" width="680">
 </div>
