@@ -10,9 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 ## 💫 About Me
-<img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
-- 💻 **Full Stack Developer** specializing in web & mobile application development
-- 📱 Expert in **React Native** & **Flutter** for cross-platform mobile apps
+<img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gi
 - 🌐 Skilled in building complete end-to-end solutions with modern tech stacks
 - 🎨 Passion for creating elegant, intuitive user interfaces and experiences
 
