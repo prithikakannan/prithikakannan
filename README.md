@@ -91,7 +91,6 @@
       Top Languages Card - Shows most used programming languages
       Parameters:
       - layout: Compact to save space
-      - langs_count: Number of languages to display (6)
       - Custom colors match the stats card for visual consistency
     -->
     <a href="https://github.com/prithikakannan/convoychat">
