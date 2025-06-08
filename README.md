@@ -75,7 +75,6 @@
       - show_icons: Display icons for different metrics
       - theme: Base theme (here: react)
       - hide_border: Removes the border around the card
-      - bg_color: Background color (deep purple: 2D1F3D)
       - title_color: Color of the title text (pink: F472B6)
       - icon_color: Color of the icons (hot pink: EC4899)
       - text_color: Color of the regular text (white)
