@@ -2,11 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Profile%20Views&color=3b82f6&style=flat-square" alt="prithikakannan" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Prithika+Kannan;Information+Technology;Full+Stack+Developer;Creative+Problem+Solver" alt="Typing SVG" />
-  <p>PHP | React | Node.js | Flutter | iOS</p>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-## 💫 About Me
+  <img src="https://readme-typing-svg.herok
 <img align="right" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 - 💻 **Full Stack Developer** specializing in web & mobile application development
 - 📱 Expert in **React Native** & **Flutter** for cross-platform mobile apps
