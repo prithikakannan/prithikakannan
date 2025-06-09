@@ -8,9 +8,7 @@
 - 📱 Expert in **React Native** & **Flutter** for cross-platform mobile apps
 - 🌐 Skilled in building complete end-to-end solutions with modern tech stacks
 - 🎨 Passion for creating elegant, intuitive user interfaces and experiences
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+0247f.gif" width="100%">
 </div>
 
 ## 📚 Projects & Experience
