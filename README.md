@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prithikakannan&label=Profile%20Views&color=3b82f6&style=flat-square" alt="prithikakannan" />
-</div>
-<div align="center">font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+There!+%F0%9F%91%8B;I'm+Prithik
+</div>here!+%F0%9F%91%8B;I'm+Prithik
 </div>
 <div align="center">
   <h3>Web & Mobile Solutions | Cross-Platform Expert</h3>
